@@ -3,13 +3,17 @@ title: Convert Fractions to Percents
 ---
 ## Convert Fractions to Percents
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/convert-fractions-to-percents/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+An example of a fraction would be <b>1/10</b>.
+An example of a percent would be <b>.10%</b>.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+### Example 1
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+To convert a fraction to a percent you would divide the top (numerator) by the bottom (denominator) of the fraction:
 
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+![Example](https://i.imgur.com/DmgtD45.png?1)
 
+### Example 2
 
+Multiply the numerator by 100 then divide by the denominator.
+
+![Example2](https://i.imgur.com/NyNK6kR.png?1)
